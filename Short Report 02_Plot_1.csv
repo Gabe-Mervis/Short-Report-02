@@ -1,25 +1,25 @@
 ﻿School,Salary Type,Faculty Level,Salary
-Amherst,Real,Full,155832.57
-Bates,Real,Full,134487.13
-Bowdoin,Real,Full,146856.94
-Carleton,Real,Full,141305.40
-Claremont McKenna,Real,Full,176097.86
-Colby,Real,Full,145970.84
-Colgate,Real,Full,151653.61
-Davidson,Real,Full,134729.29
-Furman,Real,Full,102722.95
-Grinnell,Real,Full,139557.74
-Hamilton,Real,Full,142149.28
-Haverford,Real,Full,131175.59
-Macalester,Real,Full,126583.01
-Middlebury,Real,Full,140387.28
-Oberlin,Real,Full,122742.26
-Pomona,Real,Full,160490.68
-Swarthmore,Real,Full,156328.64
-Vassar,Real,Full,142788.30
-Washington and Lee,Real,Full,143853.24
-Wesleyan,Real,Full,158454.83
-Williams,Real,Full,149902.98
+Amherst,Unadjusted,Full,155832.57
+Bates,Unadjusted,Full,134487.13
+Bowdoin,Unadjusted,Full,146856.94
+Carleton,Unadjusted,Full,141305.40
+Claremont McKenna,Unadjusted,Full,176097.86
+Colby,Unadjusted,Full,145970.84
+Colgate,Unadjusted,Full,151653.61
+Davidson,Unadjusted,Full,134729.29
+Furman,Unadjusted,Full,102722.95
+Grinnell,Unadjusted,Full,139557.74
+Hamilton,Unadjusted,Full,142149.28
+Haverford,Unadjusted,Full,131175.59
+Macalester,Unadjusted,Full,126583.01
+Middlebury,Unadjusted,Full,140387.28
+Oberlin,Unadjusted,Full,122742.26
+Pomona,Unadjusted,Full,160490.68
+Swarthmore,Unadjusted,Full,156328.64
+Vassar,Unadjusted,Full,142788.30
+Washington and Lee,Unadjusted,Full,143853.24
+Wesleyan,Unadjusted,Full,158454.83
+Williams,Unadjusted,Full,149902.98
 Amherst,Cola-Adjusted,Full,142275.14
 Bates,Cola-Adjusted,Full,153180.84
 Bowdoin,Cola-Adjusted,Full,137458.10
@@ -41,27 +41,27 @@ Vassar,Cola-Adjusted,Full,139218.59
 Washington and Lee,Cola-Adjusted,Full,164424.25
 Wesleyan,Cola-Adjusted,Full,154335.00
 Williams,Cola-Adjusted,Full,148553.85
-Amherst,Real,Associate,110986.29
-Bates,Real,Associate,105216.93
-Bowdoin,Real,Associate,113680.19
-Carleton,Real,Associate,107210.25
-Claremont McKenna,Real,Associate,128041.61
-Colby,Real,Associate,105841.43
-Colgate,Real,Associate,108479.27
-Davidson,Real,Associate,98242.92
-Furman,Real,Associate,82983.13
-Grinnell,Real,Associate,105907.67
-Hamilton,Real,Associate,108150.00
-Haverford,Real,Associate,101031.32
-Macalester,Real,Associate,95132.95
-Middlebury,Real,Associate,104368.11
-Oberlin,Real,Associate,94994.30
-Pomona,Real,Associate,120016.47
-Swarthmore,Real,Associate,111489.46
-Vassar,Real,Associate,111493.42
-Washington and Lee,Real,Associate,115712.37
-Wesleyan,Real,Associate,111007.56
-Williams,Real,Associate,106039.74
+Amherst,Unadjusted,Associate,110986.29
+Bates,Unadjusted,Associate,105216.93
+Bowdoin,Unadjusted,Associate,113680.19
+Carleton,Unadjusted,Associate,107210.25
+Claremont McKenna,Unadjusted,Associate,128041.61
+Colby,Unadjusted,Associate,105841.43
+Colgate,Unadjusted,Associate,108479.27
+Davidson,Unadjusted,Associate,98242.92
+Furman,Unadjusted,Associate,82983.13
+Grinnell,Unadjusted,Associate,105907.67
+Hamilton,Unadjusted,Associate,108150.00
+Haverford,Unadjusted,Associate,101031.32
+Macalester,Unadjusted,Associate,95132.95
+Middlebury,Unadjusted,Associate,104368.11
+Oberlin,Unadjusted,Associate,94994.30
+Pomona,Unadjusted,Associate,120016.47
+Swarthmore,Unadjusted,Associate,111489.46
+Vassar,Unadjusted,Associate,111493.42
+Washington and Lee,Unadjusted,Associate,115712.37
+Wesleyan,Unadjusted,Associate,111007.56
+Williams,Unadjusted,Associate,106039.74
 Amherst,Cola-Adjusted,Associate,101330.48
 Bates,Cola-Adjusted,Associate,119842.08
 Bowdoin,Cola-Adjusted,Associate,106404.66
@@ -83,27 +83,27 @@ Vassar,Cola-Adjusted,Associate,108706.08
 Washington and Lee,Cola-Adjusted,Associate,132259.24
 Wesleyan,Cola-Adjusted,Associate,108121.36
 Williams,Cola-Adjusted,Associate,105085.38
-Amherst,Real,Assistant,93328.94
-Bates,Real,Assistant,85861.90
-Bowdoin,Real,Assistant,91352.21
-Carleton,Real,Assistant,88513.61
-Claremont McKenna,Real,Assistant,108669.75
-Colby,Real,Assistant,88083.89
-Colgate,Real,Assistant,92464.38
-Davidson,Real,Assistant,79876.90
-Furman,Real,Assistant,70363.92
-Grinnell,Real,Assistant,87727.22
-Hamilton,Real,Assistant,88382.78
-Haverford,Real,Assistant,84959.35
-Macalester,Real,Assistant,79774.80
-Middlebury,Real,Assistant,90234.19
-Oberlin,Real,Assistant,72109.46
-Pomona,Real,Assistant,98629.45
-Swarthmore,Real,Assistant,87689.87
-Vassar,Real,Assistant,89257.63
-Washington and Lee,Real,Assistant,95154.32
-Wesleyan,Real,Assistant,91207.26
-Williams,Real,Assistant,93837.29
+Amherst,Unadjusted,Assistant,93328.94
+Bates,Unadjusted,Assistant,85861.90
+Bowdoin,Unadjusted,Assistant,91352.21
+Carleton,Unadjusted,Assistant,88513.61
+Claremont McKenna,Unadjusted,Assistant,108669.75
+Colby,Unadjusted,Assistant,88083.89
+Colgate,Unadjusted,Assistant,92464.38
+Davidson,Unadjusted,Assistant,79876.90
+Furman,Unadjusted,Assistant,70363.92
+Grinnell,Unadjusted,Assistant,87727.22
+Hamilton,Unadjusted,Assistant,88382.78
+Haverford,Unadjusted,Assistant,84959.35
+Macalester,Unadjusted,Assistant,79774.80
+Middlebury,Unadjusted,Assistant,90234.19
+Oberlin,Unadjusted,Assistant,72109.46
+Pomona,Unadjusted,Assistant,98629.45
+Swarthmore,Unadjusted,Assistant,87689.87
+Vassar,Unadjusted,Assistant,89257.63
+Washington and Lee,Unadjusted,Assistant,95154.32
+Wesleyan,Unadjusted,Assistant,91207.26
+Williams,Unadjusted,Assistant,93837.29
 Amherst,Cola-Adjusted,Assistant,85859.19
 Bates,Cola-Adjusted,Assistant,85861.90
 Bowdoin,Cola-Adjusted,Assistant,85505.67
